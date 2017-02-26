@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13269" started-at="2017-02-24T19:44:43Z" finished-at="2017-02-24T19:44:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13269" started-at="2017-02-24T19:44:43Z" finished-at="2017-02-24T19:44:56Z">
+      <class name="SampleMaven.partiallink">
+        <test-method status="PASS" signature="before()[pri:0, instance:SampleMaven.partiallink@56f4468b]" name="before" is-config="true" duration-ms="6795" started-at="2017-02-24T11:44:43Z" finished-at="2017-02-24T11:44:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="main()[pri:0, instance:SampleMaven.partiallink@56f4468b]" name="main" duration-ms="4132" started-at="2017-02-24T11:44:49Z" finished-at="2017-02-24T11:44:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="after()[pri:0, instance:SampleMaven.partiallink@56f4468b]" name="after" is-config="true" duration-ms="2322" started-at="2017-02-24T11:44:54Z" finished-at="2017-02-24T11:44:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- SampleMaven.partiallink -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
