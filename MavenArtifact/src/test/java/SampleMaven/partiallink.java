@@ -38,6 +38,7 @@ import org.testng.annotations.Test;
 	}
 	@AfterMethod
 	public void after(){
+		//closing the browser
 		driver.quit();
 		
 	}
